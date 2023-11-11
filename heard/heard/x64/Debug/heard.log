@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\C++\Heard\heard\heard\main.cpp(10,15): warning C4305: инициализация: усечение из "double" в "float"
+D:\C++\Heard\heard\heard\main.cpp(10,42): warning C4305: -=: усечение из "double" в "float"
+D:\C++\Heard\heard\heard\main.cpp(11,16): warning C4305: инициализация: усечение из "double" в "float"
+D:\C++\Heard\heard\heard\main.cpp(11,44): warning C4305: +=: усечение из "double" в "float"
+  heard.vcxproj -> D:\C++\Heard\heard\x64\Debug\heard.exe
